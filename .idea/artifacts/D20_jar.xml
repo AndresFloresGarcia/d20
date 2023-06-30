@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="D20:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/D20_jar</output-path>
+    <root id="archive" name="D20.jar">
+      <element id="module-output" name="D20" />
+    </root>
+  </artifact>
+</component>
